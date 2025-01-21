@@ -5,8 +5,7 @@ https://github.com/skrkcb2/XXS
 CWE-89 : SQL Injection https://github.com/skrkcb2/SQLInjection  
 CWE-94 : Code Injection : 코드 자체 문제  
 CWE-352 : Cross-Site Request Forgery (CSRF) https://github.com/skrkcb2/CSRF  
-CWE-434 : Unrestricted File Upload : 파일 업로드시 문제  
-CWE-22 : Path Traversal : 파일 다운로드시 경로를 벗어나 원하는 정보를 가져가는  
+CWE-434, CWE-22: Unrestricted File Upload, Path Traversal  
 CWE-917 : Server Side Template Injection(SSTI) : 템플릿 엔진을 통한 공  
 
 ## CVE
