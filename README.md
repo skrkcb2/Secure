@@ -2,8 +2,7 @@
 ## CWE
 CWE-79 : Cross-site Scripting (XSS)
 https://github.com/skrkcb2/XXS  
-CWE-89 : SQL Injection : 쿼리 바인딩 제대로 안할시  
-https://github.com/skrkcb2/SQLInjection
+CWE-89 : SQL Injection : 쿼리 바인딩 제대로 안할시 https://github.com/skrkcb2/SQLInjection  
 CWE-94 : Code Injection : 코드 자체 문제  
 CWE-352 : Cross-Site Request Forgery (CSRF)  
 CWE-434 : Unrestricted File Upload : 파일 업로드시 문제  
