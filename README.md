@@ -12,6 +12,15 @@ CWE-918: Server-Side Request Forgrey(SSRF) https://github.com/skrkcb2/SSRF
 ## CCE  
 ## OWASP 2023 TOP10
 ![image](https://github.com/user-attachments/assets/33f97349-549e-4826-8320-dbd6b67209bd)  
-API1 Broken Object Level Authorization  
+API1 Broken Object Level Authorization (maintian)  
+API2 Broken Authentication (update)
+API3 Broken Object Property Level Autorization (update)
+API4 Unstricted Resource Consumption (update)
+API5 Broken Function Level Authorization (maintain)
+API6 Unrestricted Access to Sensitive Business Flows (New)
+API7 Severver Side Request Forgery (New) / 상단에 CWE-918로 간략 체크 완료  
+API8 Security Misconfiguration (maintian)  
+API9 Improper Inventory Management (update)  
+API10 Unsafe Consumption of APIs (New)  
 ## KISA 체크리스트  
 
