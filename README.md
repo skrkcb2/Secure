@@ -15,7 +15,7 @@ CWE-918: Server-Side Request Forgrey(SSRF) https://github.com/skrkcb2/SSRF
 API1 Broken Object Level Authorization (maintian) https://github.com/skrkcb2/OWASP-BOLA    
 API2 Broken Authentication (update) https://github.com/skrkcb2/Broken-Authentication  
 API3 Broken Object Property Level Autorization (update) https://github.com/skrkcb2/Broken-Object-Property-Level-Authorization    
-API4 Unstricted Resource Consumption (update)  
+API4 Unstricted Resource Consumption (update) https://github.com/skrkcb2/Unrestricted-Resource-Consumption  
 API5 Broken Function Level Authorization (maintain)  
 API6 Unrestricted Access to Sensitive Business Flows (New)  
 API7 Severver Side Request Forgery (New) / 상단에 CWE-918로 간략 체크 완료  
