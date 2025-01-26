@@ -10,6 +10,8 @@ CWE-94: Improper Control of Generation of Code(SSTI) https://github.com/skrkcb2/
 CWE-918: Server-Side Request Forgrey(SSRF) https://github.com/skrkcb2/SSRF  
 ## CVE  
 ## CCE  
-## OWASP 2024 TOP10
+## OWASP 2023 TOP10
+![image](https://github.com/user-attachments/assets/33f97349-549e-4826-8320-dbd6b67209bd)  
+API1 Broken Object Level Authorization  
 ## KISA 체크리스트  
 
