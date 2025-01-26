@@ -20,7 +20,7 @@ API5 Broken Function Level Authorization (maintain)
 API6 Unrestricted Access to Sensitive Business Flows (New)  
 API7 Severver Side Request Forgery (New) / 상단에 CWE-918로 간략 체크 완료  
 API8 Security Misconfiguration (maintian)  
-API9 Improper Inventory Management (update)  
+API9 Improper Inventory Management (update) / **개발, 운영 환경 및 API에 대한 문서화가 부족**  
 API10 Unsafe Consumption of APIs (New)  
 ## KISA 체크리스트  
 
