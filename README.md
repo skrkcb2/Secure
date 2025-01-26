@@ -13,7 +13,7 @@ CWE-918: Server-Side Request Forgrey(SSRF) https://github.com/skrkcb2/SSRF
 ## OWASP 2023 TOP10
 ![image](https://github.com/user-attachments/assets/33f97349-549e-4826-8320-dbd6b67209bd)  
 API1 Broken Object Level Authorization (maintian) https://github.com/skrkcb2/OWASP-BOLA    
-API2 Broken Authentication (update)  
+API2 Broken Authentication (update) https://github.com/skrkcb2/Broken-Authentication  
 API3 Broken Object Property Level Autorization (update)  
 API4 Unstricted Resource Consumption (update)  
 API5 Broken Function Level Authorization (maintain)  
