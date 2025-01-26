@@ -16,11 +16,11 @@ API1 Broken Object Level Authorization (maintian) https://github.com/skrkcb2/OWA
 API2 Broken Authentication (update) https://github.com/skrkcb2/Broken-Authentication  
 API3 Broken Object Property Level Autorization (update) https://github.com/skrkcb2/Broken-Object-Property-Level-Authorization    
 API4 Unstricted Resource Consumption (update) https://github.com/skrkcb2/Unrestricted-Resource-Consumption  
-API5 Broken Function Level Authorization (maintain)  
+API5 Broken Function Level Authorization (maintain) / 로직에서의 ROle 기반을 엎어버리는  
 API6 Unrestricted Access to Sensitive Business Flows (New)  
 API7 Severver Side Request Forgery (New) / **상단에 CWE-918로 간략 체크 완료**    
-API8 Security Misconfiguration (maintian)  
+API8 Security Misconfiguration (maintian)  / 설정  
 API9 Improper Inventory Management (update) / **개발, 운영 환경 및 API에 대한 문서화가 부족**  
-API10 Unsafe Consumption of APIs (New)  
+API10 Unsafe Consumption of APIs (New)  / 설정  
 ## KISA 체크리스트  
 
