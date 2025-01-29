@@ -22,5 +22,6 @@ API7 Severver Side Request Forgery (New) / **상단에 CWE-918로 간략 체크 
 API8 Security Misconfiguration (maintian)  / **사용하는 웹서버 및 프레임워크 설정 문제**  
 API9 Improper Inventory Management (update) / **개발, 운영 환경 및 API에 대한 문서화가 부족**   
 API10 Unsafe Consumption of APIs (New)  / **API와의 상호작용 즉 모든 문제 포함**  
-## KISA 체크리스트  
+## KISA 웹 취약점 체크리스트  
+유닉스 파트 리눅스 
 
