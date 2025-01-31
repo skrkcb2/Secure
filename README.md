@@ -1,5 +1,5 @@
 # Secure 
-## CWE
+## 웹 관련 CWE
 CWE-79 : Cross-site Scripting (XSS)
 https://github.com/skrkcb2/XXS  
 CWE-89 : SQL Injection https://github.com/skrkcb2/SQLInjection  
