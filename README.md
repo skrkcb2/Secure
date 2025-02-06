@@ -25,5 +25,5 @@ API10 Unsafe Consumption of APIs (New)  / **API와의 상호작용 즉 모든 �
 ## KISA 리눅스, DMBS, Web 취약점 진단  
 유닉스 파트 리눅스 https://github.com/skrkcb2/kisa-linux  
 DMBS 설정 https://github.com/skrkcb2/KISA-DBMS  
-WEB 취약점 / 웹 관련 CVE 및 OWASP10 내용
+WEB 취약점 / **웹 관련 CVE 및 OWASP10 내용**
 
