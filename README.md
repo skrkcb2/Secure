@@ -1,6 +1,7 @@
 # Secure 
 ## 웹 관련 취약점 분석지
-CVE-2024-38819 https://github.com/skrkcb2/cve-2024-38819  
+CVE-2024-38819 Path traversal vulnerability in functional web frameworks  
+https://github.com/skrkcb2/cve-2024-38819  
 ## 웹 관련 취약점
 CWE-79 : Cross-site Scripting (XSS)
 https://github.com/skrkcb2/XXS  
