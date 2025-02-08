@@ -1,4 +1,5 @@
 # Secure 
+## 웹 관련 취약점 분석지
 ## 웹 관련 취약점
 CWE-79 : Cross-site Scripting (XSS)
 https://github.com/skrkcb2/XXS  
