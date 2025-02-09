@@ -2,7 +2,7 @@
 ## 웹 관련 취약점 분석지
 CVE-2024-38819 Path traversal vulnerability in functional web frameworks  
 https://github.com/skrkcb2/cve-2024-38819  
-CVE-2024-5452 Remote code execution in pytorch lightning
+CVE-2024-5452 Remote code execution in pytorch lightning  
 https://github.com/skrkcb2/CVE-2024-5452
 ## 웹 관련 취약점
 CWE-79 : Cross-site Scripting (XSS)
