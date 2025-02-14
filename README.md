@@ -29,6 +29,6 @@ API10 Unsafe Consumption of APIs (New)  / **API와의 상호작용 즉 모든 �
 DMBS 설정 https://github.com/skrkcb2/KISA-DBMS  
 WEB 취약점 / **웹 관련 CVE 및 OWASP10 내용**
 ## 취약점 진단 도구
+서버 취약점 탐지 https://github.com/skrkcb2/Nessus  
 정적 코드 탐지  https://github.com/skrkcb2/Fortify  
 동적 코드 탐지  https://github.com/skrkcb2/OWASP-ZAP  
-서버 취약점 탐지 https://github.com/skrkcb2/Nessus  
