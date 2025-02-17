@@ -4,7 +4,9 @@ CVE-2024-38819 Path traversal vulnerability in functional Spring web frameworks(
 https://github.com/skrkcb2/cve-2024-38819  
 CVE-2024-5452 Remote code execution in pytorch lightning  
 https://github.com/skrkcb2/CVE-2024-5452  
-
+## CVE POC (간략)
+CVE-2025-0851 A path traversal issue in ZipUtils.unzip and TarUtils.untar in Deep Java Library (DJL)
+https://github.com/skrkcb2/CVE-2025-0851
 ## 웹 관련 취약점
 CWE-79 : Cross-site Scripting (XSS)
 https://github.com/skrkcb2/XXS  
