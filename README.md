@@ -4,7 +4,7 @@ CVE-2024-38819 Path traversal vulnerability in functional Spring web frameworks(
 https://github.com/skrkcb2/cve-2024-38819  
 CVE-2024-5452 Remote code execution in pytorch lightning  
 https://github.com/skrkcb2/CVE-2024-5452  
-CVE-2025-0924 WP Activity Log plugin for WordPress is vulnerable to Stored Cross-Site Scripting  
+CVE-2025-0924 WP Activity Log plugin for WordPress is vulnerable to Stored Cross-Site Scripting(분석 중 나온 또 다른 취약점)  
 https://github.com/skrkcb2/CVE-2025-0924
 ## CVE POC (간략)
 CVE-2025-0851 A path traversal issue in ZipUtils.unzip and TarUtils.untar in Deep Java Library (DJL)  
