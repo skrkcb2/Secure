@@ -6,7 +6,7 @@ CVE-2024-5452 Remote code execution in pytorch lightning
 https://github.com/skrkcb2/CVE-2024-5452  
 CVE-2025-0924 WP Activity Log plugin for WordPress is vulnerable to Stored Cross-Site Scripting(분석 중 나온 다른 유형의 취약점)    
 https://github.com/skrkcb2/CVE-2025-0924-different  
-CVE-2023-46604 OpenWire protocol marshaller is vulnerable to Remote Code Execution(공격 패킷 공부)  
+CVE-2023-46604 OpenWire protocol marshaller is vulnerable to Remote Code Execution(공격 패킷 흐름 공부)  
 https://github.com/skrkcb2/CVE-2023-46604
 ## CVE POC (간략)
 CVE-2025-0851 A path traversal issue in ZipUtils.unzip and TarUtils.untar in Deep Java Library (DJL)  
